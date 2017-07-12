@@ -12,9 +12,8 @@ Register Script
 </body>
 </html>
 <head>
-<style>
 
-</style>
+
 </head>
 <body>
 <h3>First time here?</h3>
