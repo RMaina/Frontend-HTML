@@ -1,9 +1,6 @@
 # Frontend-HTML
 Andela Challenge #1_2
-=======================================
-View a bucketlist
-=======================================
-<html>
+ <html>
 
 
 <h2>BUCKETAPP LIST<h2>
@@ -24,3 +21,6 @@ View a bucketlist
 
 <table style="width:20%">
 <th> EDIT </th>
+<table style="width:20%">
+ <th> ADD </th>
+ master
