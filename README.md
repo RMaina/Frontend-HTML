@@ -6,17 +6,10 @@ Creating a bucket list
 <html>
 <body>
 
-<h2>BUCKETAPP LIST<img src="https://etc.usf.edu/clipart/80500/80538/80538_bucket_sm.gif" alt="Mountain View" style="width:20px;height:40px;"> 
+<h2>BUCKETAPP LIST</h2>
 
-</body>
-</html>
-
-     
-</style>
-</head>
-<body>
 <h3>Start Your Adventure here </h3>
-<h2></h2>
+
 
 <ul style="list-style-type:none">
   <li>1.______________________________</li>
