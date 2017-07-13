@@ -1,8 +1,6 @@
 # Frontend-HTML
 Andela Challenge #1_2
-=============================================
-Creating a bucket list
-=============================================
+
 <html>
 <head>
 
