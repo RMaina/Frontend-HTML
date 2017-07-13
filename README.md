@@ -17,14 +17,7 @@ Creating a bucket list
   <li>3.______________________________</li>
 </ul> 
 
-<head>
-<style>
-table, th, td {
-    border: 1px solid black;
-}
-</style>
-</head>
-<body>
+
 
 <table style="width:20%">
 <th> SAVE </th>
