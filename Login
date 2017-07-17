@@ -1,20 +1,17 @@
 
+<!DOCTYPE html>
 <html>
-<body>
-
-<h2>BUCKETAPP LIST</h2>
-<img src="https://etc.usf.edu/clipart/80500/80538/80538_bucket_sm.gif" alt="Mountain View" style="width:100px;height:200px;">
-
+<head>
 <style>
 body {
-    background-color: lightblue
-    background: #ffffff url("img src="https://etc.usf.edu/clipart/80500/80538/80538_bucket_sm.gif" alt="Mountain View" style="width:100px;height:200px") no-repeat right top;
-    margin-right: 200px;
+    background: #ffffff url("https://etc.usf.edu/clipart/80500/80538/80538_bucket_sm.gif") no-repeat right top;
+    margin-right: 100px;
 }
 </style>
-}
-</style>
+</head>
+<body>
 
+<h1>BucketList APP</h1>
 
 <h3>First time here? 
 Register</th>
@@ -32,3 +29,9 @@ Register</th>
   <tr>
 <h3> 
 </th>
+<style>
+body {
+    background-color: lightblue
+</style>
+</body>
+</html>
