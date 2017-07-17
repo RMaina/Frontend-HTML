@@ -7,7 +7,11 @@
 
 <style>
 body {
-    background-color: lightblue;
+    background-color: lightblue
+    background: #ffffff url("img src="https://etc.usf.edu/clipart/80500/80538/80538_bucket_sm.gif" alt="Mountain View" style="width:100px;height:200px") no-repeat right top;
+    margin-right: 200px;
+}
+</style>
 }
 </style>
 
